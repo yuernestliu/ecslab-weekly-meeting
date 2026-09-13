@@ -1,0 +1,30 @@
+# Private materials: every directory named "不公开" at any depth.
+不公开/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+
+# Local development artifacts
+.idea/
+.vscode/
+__pycache__/
+.venv/
+venv/
